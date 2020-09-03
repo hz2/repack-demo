@@ -8,7 +8,6 @@ Vue.config.productionTip = false;
 
 Vue.use(ElementUI);
 
-Vue.prototype._get = (a) => a;
 
 new Vue({
   render: (h) => h(App)
