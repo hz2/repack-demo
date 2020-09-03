@@ -1,0 +1,122 @@
+[
+  {
+    "buildName": "1幢",
+    "unitName": "1单元",
+    "doorNo": "101",
+    "name": "柔信",
+    "mobile": "1502441542",
+    "acreage": 10,
+    "houseStatus": "2",
+    "housingCategory": "2",
+    "houseUsage": "1",
+    "houseId": "635399807"
+  },
+  {
+    "buildName": "2幢",
+    "unitName": "1单元",
+    "doorNo": "101",
+    "name": "升瑞",
+    "mobile": "1529009858",
+    "acreage": 20,
+    "houseStatus": "1",
+    "housingCategory": "1",
+    "houseUsage": "0",
+    "houseId": "635399808"
+  },
+  {
+    "buildName": "2幢",
+    "unitName": "1单元",
+    "doorNo": "102",
+    "name": "腾杰",
+    "mobile": "1581533177",
+    "acreage": 10,
+    "houseStatus": "1",
+    "housingCategory": "2",
+    "houseUsage": "0",
+    "houseId": "635399809"
+  },
+  {
+    "buildName": "2幢",
+    "unitName": "1单元",
+    "doorNo": "103",
+    "name": "礼荣",
+    "mobile": "1565030899",
+    "acreage": 15,
+    "houseStatus": "3",
+    "housingCategory": "2",
+    "houseUsage": "0",
+    "houseId": "635399810"
+  },
+  {
+    "buildName": "1幢",
+    "unitName": "1单元",
+    "doorNo": "101",
+    "name": "翰尧",
+    "mobile": "1599563628",
+    "acreage": 25,
+    "houseStatus": "2",
+    "housingCategory": "2",
+    "houseUsage": "1",
+    "houseId": "635399811"
+  },
+  {
+    "buildName": "1幢",
+    "unitName": "1单元",
+    "doorNo": "102",
+    "name": "奇腾",
+    "mobile": "1505963305",
+    "acreage": 10,
+    "houseStatus": "1",
+    "housingCategory": "1",
+    "houseUsage": "0",
+    "houseId": "635399812"
+  },
+  {
+    "buildName": "1幢",
+    "unitName": "1单元",
+    "doorNo": "103",
+    "name": "彬栋",
+    "mobile": "1522297904",
+    "acreage": 30,
+    "houseStatus": "1",
+    "housingCategory": "2",
+    "houseUsage": "0",
+    "houseId": "635399813"
+  },
+  {
+    "buildName": "1幢",
+    "unitName": "1单元",
+    "doorNo": "201",
+    "name": "涛驰",
+    "mobile": "1590483615",
+    "acreage": 50,
+    "houseStatus": "1",
+    "housingCategory": "1",
+    "houseUsage": "0",
+    "houseId": "635399814"
+  },
+  {
+    "buildName": "1幢",
+    "unitName": "1单元",
+    "doorNo": "202",
+    "name": "坤翱",
+    "mobile": "1563598733",
+    "acreage": 50,
+    "houseStatus": "1",
+    "housingCategory": "1",
+    "houseUsage": "0",
+    "houseId": "635399815"
+  },
+  {
+    "buildName": "1幢",
+    "unitName": "1单元",
+    "doorNo": "203",
+    "name": "诚濡",
+    "mobile": "1588881190",
+    "acreage": 50,
+    "houseStatus": "1",
+    "housingCategory": "1",
+    "houseUsage": "0",
+    "houseId": "635399816"
+  }
+]
