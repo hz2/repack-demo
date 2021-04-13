@@ -69,6 +69,10 @@ export default {
       loading: false,
       hidden: false,
       cfg: {
+        pageAlias: {
+            current:"page",
+            size:"limit"
+        },
         actionAlign: "right",
         actionList: [
           {
