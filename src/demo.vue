@@ -1,6 +1,6 @@
 <template>
   <div class="cp-page">
-    <rl-table :cfg="cfg" ref="houseTable" @addHouse="addHouse" @getSelection="getSelection"></rl-table>
+    <Table :cfg="tableConfig" ref="houseTable" @addHouse="addHouse" @getSelection="getSelection"></Table>
     <el-dialog
       :title="addName"
       :close-on-click-modal="false"
@@ -61,14 +61,14 @@ const houstStatesList = [
 export default {
   name: "house",
   components: {
-    [Table.name]: Table,
+    Table,
     FormItem
   },
   data() {
     return {
       loading: false,
       hidden: false,
-      cfg: {
+      tableConfig: {
         pageAlias: {
             current:"page",
             size:"limit"
